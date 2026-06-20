@@ -1,0 +1,9 @@
+﻿# Java / Maven
+target/
+
+# VS Code
+.vscode/
+
+# Local logs
+log/
+*.log
