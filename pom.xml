@@ -14,7 +14,7 @@
     <javafx.version>20.0.2</javafx.version>
     <javafx.platform>win</javafx.platform>
     <app.name>kg-app</app.name>
-    <app.main.class>com.soundwave.FXTest.CheckBoxDemo</app.main.class>
+    <app.main.class>com.soundwave.FXTest.ToggleButtonDemo</app.main.class>
   </properties>
 
   <dependencies>
